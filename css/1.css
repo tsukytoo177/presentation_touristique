@@ -1,0 +1,19 @@
+body {
+    background-color: darkgoldenrod;
+}
+h1 {
+    text-align: center;
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+figcaption {
+    color: white;
+}
+main {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 150px;
+}
+figure:hover {
+    
+    }
