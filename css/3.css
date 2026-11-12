@@ -1,3 +1,53 @@
 body {
-    background-color: cyan;
+    background-color: F0F4F8;
+    font-family: Arial;
+    text-align: center;
+     margin: 0;
+}
+
+h1 {
+    color: gold ;
+    font-size: 40px;
+}
+
+nav {
+    
+    padding: 10px;
+}
+
+nav a {
+    color: #F0F4F8;
+    font-size: 16px;
+    margin: 15px; }
+
+
+.carte {
+    
+    width: 700px;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+.carte img {
+    width: 100%;
+    height: 350px;
+}
+
+p {
+    color: #0F172A;
+    font-size: 16px;
+    text-align: left;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+
+footer {
+    color: #0F172A;
+    padding: 10px;
+    margin-top: 30px;
+}
+header{
+    background-color: #0F172A ;
 }

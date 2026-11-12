@@ -1,44 +1,22 @@
+
+
+
 body {
-    background-color: green;
+    background-color: #F0F4F8;
+    font-family: Arial;
+    text-align: center;
+    margin: 0;
 }
 
 h1 {
-    text-align: center;
     color: gold;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 50px;
+    font-size: 45px;
 }
 
-figcaption {
-    color: gold;
-    text-align: bottom;
-    text-align: center;
-    
-    
-}
-a{
-   text-decoration: none;
-}
-
-main {
-
-    text-align: center;
-
-
-
-}
-
-p {
-    color: gold;
-    font-size: 20px;
-    text-align: center;
-}
-
-
-
-div {
+nav {
     display: flex;
-    justify-content: center;
-    /* align-items: center; */
     flex-wrap: wrap;
-} 
+    padding: 10px;
+    justify-content: center;
+    
+}
