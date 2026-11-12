@@ -41,3 +41,12 @@ p {
     margin: 20px auto;
     padding: 20px;
 }
+
+.image-centrale {
+    width: 500px;
+    height: 300px;
+}
+header{
+    background-color: #0F172A ;
+    text-align: center;
+}
