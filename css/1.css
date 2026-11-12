@@ -35,3 +35,9 @@ p {
     color: #F0F4F8;
     font-size: 18px;
 }
+.carte-principale {
+   
+    width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+}
