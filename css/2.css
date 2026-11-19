@@ -50,3 +50,13 @@ footer {
 header{
     background-color: #0F172A ;
 }
+
+.image-centrale {
+    width: 500px;
+    height: 300px;
+}
+
+.lien-menu {
+    display: flex;
+}
+/* finir menu */
