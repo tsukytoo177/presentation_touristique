@@ -105,3 +105,15 @@ div {
     color: white;
     background-color: #0F172A;
 }
+
+h2 {
+    width: 100vw;
+    text-align: center;
+    color: gold;
+}
+
+section {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
