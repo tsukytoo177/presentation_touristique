@@ -100,6 +100,7 @@ div {
     color: #0F172A;
     transition: all ease-in-out 0.2s;
 }
+
 #boutton:hover {
     border: #ffee52 solid 5px;
     color: white;
@@ -116,4 +117,17 @@ section {
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
+}
+
+.lien-txt {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    transition: all ease-in-out 0.1s;
+}
+
+.lien-txt:hover {
+    color: white;
+    font-weight: bold;
+    text-shadow: 0px 0px 5px black;
 }
