@@ -1,3 +1,13 @@
+html {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+    @font-face {
+        font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    }
+}
+
 body {
     background-color: #F0F4F8;
     font-family: Arial;
@@ -6,23 +16,24 @@ body {
 }
 
 h1 {
-    color: gold ;
+    color: gold;
     font-size: 40px;
 }
 
 nav {
-  
+
     padding: 10px;
 }
 
 nav a {
     color: #F0F4F8;
     font-size: 16px;
-    margin: 15px; }
+    margin: 15px;
+}
 
 
 .carte {
-   
+
     width: 700px;
     margin: 20px auto;
     padding: 20px;
@@ -41,14 +52,22 @@ p {
     text-align: left;
 }
 
+pre {
+    color: #0F172A;
+    font-size: 16px;
+    text-align: left;
+}
+
 
 footer {
-   
+
     background-color: #0F172A;
-        padding-bottom: 133px;
-    margin-top: 110px;}
-header{
-    background-color: #0F172A ;
+    padding-bottom: 133px;
+    margin-top: 110px;
+}
+
+header {
+    background-color: #0F172A;
 }
 
 .image-centrale {
@@ -59,4 +78,5 @@ header{
 .lien-menu {
     display: flex;
 }
+
 /* finir menu */
