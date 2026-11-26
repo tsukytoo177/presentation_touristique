@@ -89,3 +89,19 @@ div {
     display: flex;
     flex-direction: row;
 }
+
+#boutton {
+    text-decoration: none;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border: #0F172A solid 5px;
+    color: #0F172A;
+    transition: all ease-in-out 0.2s;
+}
+#boutton:hover {
+    border: #ffee52 solid 5px;
+    color: white;
+    background-color: #0F172A;
+}
